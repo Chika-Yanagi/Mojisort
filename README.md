@@ -3,6 +3,7 @@
 
 gcc -Wall -std=c99 -o q6-2 q6-2.c <br>
 ./q6-2 Lemon Orange Apple Blueberry Guava Cranberry Strawberry <br>
+<br>
 Apple <br>
 Blueberry <br>
 Cranberry <br>
